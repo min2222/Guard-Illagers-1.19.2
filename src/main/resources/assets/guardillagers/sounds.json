@@ -1,0 +1,50 @@
+{
+  "mob.guardillager.ambient": {
+    "category": "hostile",
+    "sounds": [
+      "guardillagers:mob/guardillager/guardillager_ambient",
+      "guardillagers:mob/guardillager/guardillager_ambient2"
+    ],
+    "volume": 1.25,
+    "subtitle": "guardillagers:subtitles.guardillager.ambient"
+  },
+  "mob.guardillager.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "guardillagers:mob/guardillager/guardillager_hurt",
+      "guardillagers:mob/guardillager/guardillager_hurt2",
+      "guardillagers:mob/guardillager/guardillager_hurt3"
+    ],
+    "volume": 1.25,
+    "subtitle": "guardillagers:subtitles.guardillager.hurt"
+  },
+  "mob.guardillager.die": {
+    "category": "hostile",
+    "sounds": [
+      "guardillagers:mob/guardillager/guardillager_death",
+      "guardillagers:mob/guardillager/guardillager_death2"
+    ],
+    "volume": 1.25,
+    "subtitle": "guardillagers:subtitles.guardillager.die"
+  },
+  "mob.guardillager.angry": {
+    "category": "hostile",
+    "sounds": [
+      "guardillagers:mob/guardillager/guardillager_angry"
+    ],
+    "volume": 1.25,
+    "subtitle": "guardillagers:subtitles.guardillager.angry"
+  },
+  "mob.guardillager.step": {
+    "category": "hostile",
+    "sounds": [
+      "guardillagers:mob/guardillager/guardillager_step",
+      "guardillagers:mob/guardillager/guardillager_step2",
+      "guardillagers:mob/guardillager/guardillager_step3",
+      "guardillagers:mob/guardillager/guardillager_step4",
+      "guardillagers:mob/guardillager/guardillager_step5",
+      "guardillagers:mob/guardillager/guardillager_step6"
+    ],
+    "subtitle": "guardillagers:subtitles.guardillager.step"
+  }
+}
